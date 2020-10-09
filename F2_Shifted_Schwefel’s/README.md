@@ -1,7 +1,7 @@
 #Continuous optimization : F2 : Shifted Schwefel’s Problem 2.21
 
 
-![F1-shifted-sphere](F1-shifted-sphere.png)
+![F2-shifted-Schwefel](F2-shifted-Schwefel.png)
 
 Properties:
 Unimodal
