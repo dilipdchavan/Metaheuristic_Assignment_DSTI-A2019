@@ -1,6 +1,6 @@
 # Continuous optimization : F3 : Shifted Rosenbrock’s Function
 
-![F3-shifted-Rosenbrock](F1-shifted-Rosenbrock.png)
+![F3-shifted-Rosenbrock](F3-shifted-Rosenbrock.png)
 
 Properties:
  Multi-modal
